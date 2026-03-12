@@ -1,38 +1,40 @@
 body{
 font-family: Arial;
-background-color: #f4f4f4;
+background-color: #ffffffd7;
 text-align: center;
 margin-top: 100px;
 }
 
 div{
-background-color: white;
+background-color: rgb(85, 85, 90);
 padding: 20px;
 width: 300px;
 margin: auto;
 border-radius: 10px;
-box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
 input{
-width: 50%;
+width: 90%;
 padding: 10px;
 margin: 10px 0;
 }
 
 #button{
 background-color: #170bbe;
-color: rgb(240, 237, 237);
+color: rgb(238, 231, 231);
 border: none;
 cursor: pointer;
 }
 
 #button:hover{
-background-color: #b61a75;
+background-color: #1a70b6;
 }
 
 #resultado{
-margin-top: 20px;
-font-size: 18px;
+margin-top: 30px;
+font-size: 20px;
+color: rgb(255, 255, 255);
+text-align: center;
 }
  
